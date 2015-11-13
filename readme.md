@@ -1,7 +1,6 @@
 ###### Itway web-site for iy guys && web-devs && hr specialists
 
-App is made with a help of Laravel PHP Framework
-
+#App moved to [https://github.com/itway/itway](https://github.com/itway/itway)
 ---
 
 ###### Official Documentation
